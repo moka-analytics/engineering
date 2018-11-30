@@ -5,7 +5,7 @@ This repository contains MOKA Analytics's public engineering presentations and n
 
 Engineering blog: https://medium.com/moka-analytics-engineering
 
-Learn more about MOKA on our website:https://www.moka.nyc
+Learn more about MOKA on our website: https://www.moka.nyc
 
 **Engineering Topics**
 * Linear Programming/Optimization for Macro Capacity Planning
