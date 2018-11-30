@@ -2,3 +2,4 @@ venv
 .idea
 .ipynb_checkpoints
 lp-talk.iml
+.DS_Store
