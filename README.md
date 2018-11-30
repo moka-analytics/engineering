@@ -8,6 +8,6 @@ Follow us on Medium for posts, talks, and more!: https://medium.com/moka-analyti
 You can learn more about MOKA on our website: https://www.moka.nyc
 
 **Engineering Topics**
-* Linear Programming/Optimization for Macro Capacity Planning
+* Using PuLP and Linear Programming/Optimization for Macro Capacity Planning
   * [NYC Python Meetup Slides](slides/Python%20Linear%20Programming.pdf)
   * [Jupyter Notebook](notebooks/pulp-lp-capacity-planning.ipynb)
